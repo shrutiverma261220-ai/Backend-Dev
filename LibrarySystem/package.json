@@ -1,0 +1,13 @@
+{
+  "name": "librarysystem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index2.js",
+  "scripts": {
+    "start": "node index2.js"
+  },
+  "keywords": [],
+  "author": "Shruti",
+  "license": "ISC",
+  "type": "module"
+}
